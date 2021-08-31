@@ -1,6 +1,6 @@
 # todo_list_bloc
 
-A new Flutter application.
+ToDo app is developed using flutter built in bloc package.
 
 ## Getting Started
 
