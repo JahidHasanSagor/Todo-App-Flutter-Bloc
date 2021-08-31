@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:todo_list_bloc/database/database.dart';
 import 'package:todo_list_bloc/model/todo.dart';
 
